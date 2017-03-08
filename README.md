@@ -1,4 +1,4 @@
-# Testing-Real-Life-Code-Ex
+# Testing Real Life Code
 This repo is a hand-in for school project [exercise](https://docs.google.com/document/d/1XkDQ19Ezr_LHiWuEhvbRAp3XmaufD3ocYBE4Ri9b6XA/edit).
 
 ## Content:
